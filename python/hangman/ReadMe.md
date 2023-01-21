@@ -1,8 +1,8 @@
-JSON, 
-Abstraction
-File import
-methods (random.choice, string.ascii_uppercase, etc.)
-while loops
-Nested Conditions
-Lists
-User-defined functions: Void Functions vs. return
+JSON- A JSON file stores data in key-value pairs and arrays; the software it was made for then accesses the data. An example of this is the assignment is the words file contaning all the words for the hangman file. 
+Abstraction- Abstraction is a process of handling complexity by hiding unnecessary information from the user
+File import- Import files are documents, images or other digital items that a person has transferred from one program into another. An example of this is when we first went to the website to find the link with all the words. we would tne put hose words into a words.py file which that file would be used in the hangman file. 
+methods (random.choice, string.ascii_uppercase, etc.)- Strings of code like these give functions certain functions. For example, string.ascii_uppercase is a string which in python, it give the uppercase letters. This geos hand in hand with our game . Another example is the random.choice string. This string in our case chooses any random number from the words.py file to truly make our game hangman.
+while loops- A while loop is used to run a specific code until a certain condition is met. On line 22 of the hangman file, there is a while loop and its jon is to keep running and find white letters are correct and which arent. 
+Nested Conditions- Esentially what nested conditions are is they are just if statements inside of if statements. 
+Lists- Lists are used to store multiple items in a single variable.
+User-defined functions: Void Functions vs. return- Void functions are created and used just like value-returning functions except they do not return a value after the function executes
