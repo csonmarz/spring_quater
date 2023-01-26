@@ -1,0 +1,4 @@
+Pull data from files (open file)- In the code, we have a file called passwords.txt. In order to see our accounts, we need to refer the file in order to see the acounts in the final result
+While Loops- A while loop is used to run a specific code until a certain condition is met. 
+Conditional (if/else if/ else)- Conditional statements are used to specify a block of code to be executed, if a specified condition is true
+Optimization (clean code up and add functions)-Code optimization is writing or rewriting code so a program uses the least possible memory. Optimization can alsdo be used to add new function to make your code run more smoothly
