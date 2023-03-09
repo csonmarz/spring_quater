@@ -5,6 +5,6 @@ def multiplication(number1,number2): # functions hold the different statements a
     else: # Otherwise, the code will add the numbers if it goes over 1000
         return number1 + number2
     
-mutiply = multiplication(84, 8) # container holding the variable and numbers 
+mutiply = multiplication(84, 8) # In this line of code, we are calling the function and adding some values to give the prevoius if and else statments some numbers to work with 
 print(mutiply) # print the statemnts to get the final answer 
     
