@@ -1,0 +1,6 @@
+from item import item
+
+item1 = Itme("MyItem", 750)
+item1.name = "OtherItem"
+
+print(item1.name)
